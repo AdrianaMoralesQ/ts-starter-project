@@ -1,2 +1,2 @@
-const greeting: string = 'Hello World!';
-alert(greeting);
+// const greeting: string = 'Hello World!';
+// alert(greeting);
